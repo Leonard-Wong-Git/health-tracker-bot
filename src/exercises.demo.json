@@ -1,0 +1,10 @@
+[
+  {"name": "室外步行", "name_en": "Outdoor walk", "category": "cardio", "input": "distance_time", "met": 3.5},
+  {"name": "室內跑步", "name_en": "Treadmill run", "category": "cardio", "input": "distance_time", "met": 8.0},
+  {"name": "Kettlebell 硬拉", "name_en": "Kettlebell deadlift", "category": "kettlebell", "input": "sets_reps", "met": 4.0, "default": {"weight_kg": 12, "sets": 3, "reps": 10}},
+  {"name": "Kettlebell 擺盪", "name_en": "Kettlebell swing", "category": "kettlebell", "input": "sets_reps", "met": 6.0, "default": {"weight_kg": 12, "sets": 3, "reps": 15}},
+  {"name": "彈力帶划船", "name_en": "Band row", "category": "bands", "input": "sets_reps", "met": 4.0},
+  {"name": "平板支撐", "name_en": "Plank", "category": "bodyweight", "input": "sets_seconds", "met": 3.5},
+  {"name": "徒手深蹲", "name_en": "Bodyweight squat", "category": "bodyweight", "input": "sets_reps", "met": 5.0},
+  {"name": "瑜伽伸展", "name_en": "Yoga stretch", "category": "stretching", "input": "time", "met": 2.5}
+]
